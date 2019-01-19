@@ -10,7 +10,7 @@
  - JDK : JDK8
 
 ---
-### [용어 정리](https://github.com/mkshin96/study-spring-boot/tree/master/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC)
+### [용어 정리](https://github.com/mkshin96/study-spring-boot/blob/master/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md)
 
 
 ---
