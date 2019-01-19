@@ -1,6 +1,6 @@
-﻿# 2018 겨울방학 Spring-Boot-Study
+# 2018 겨울방학 Spring-Boot-Study
 
-![교재](/1.jpg)
+![교재](/images/1.jpg)
 
 
  - 교재 : 처음 배우는 스프링 부트2(한빛미디어)
@@ -9,6 +9,9 @@
  - 개발 툴 : 인텔리제이
  - JDK : JDK8
 
+---
 ### [용어 정리](https://github.com/mkshin96/study-spring-boot/tree/master/%EC%9A%A9%EC%96%B4%20%EC%A0%95%EB%A6%AC)
 
+
+---
 ### [SourceCode](https://github.com/mkshin96/study-spring-boot/tree/master/Spring-Boot-Community-Web)
