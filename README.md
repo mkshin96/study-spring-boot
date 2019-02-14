@@ -14,7 +14,7 @@
 
 ---
 
-###[코드 정리](https://github.com/mkshin96/study-spring-boot/tree/master/%EC%BD%94%EB%93%9C%20%EC%A0%95%EB%A6%AC)
+### [코드 정리](https://github.com/mkshin96/study-spring-boot/tree/master/%EC%BD%94%EB%93%9C%20%EC%A0%95%EB%A6%AC)
 ---
 ### SourceCode
 - #### [springBootVersion : 1.5.14](https://github.com/mkshin96/study-spring-boot/tree/master/Spring-Boot-Community-Web1)
